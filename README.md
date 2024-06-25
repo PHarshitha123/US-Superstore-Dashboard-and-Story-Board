@@ -21,4 +21,6 @@ The Superstore dataset used in this dashboard is publicly available and can be d
 
 - ### [Sales Dashboard](Dashboard%20of%20sales.twbx)
 - ### [Link to Tableau Public Visualization](https://public.tableau.com/app/profile/podaralla.harshitha/viz/Dashboardofsales_16971321435180/Dashboard1)
-- ### [Dashboard](
+- ### Dashboard
+![Dashboard](Images/Dashboard.png)
+
