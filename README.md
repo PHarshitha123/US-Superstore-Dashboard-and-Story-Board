@@ -16,3 +16,7 @@ The Superstore dataset used in this dashboard is publicly available and can be d
 - Contents: Sales information of a fictional office supplies retailer.
 
 - Key Columns: Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit.
+
+## Visualization & Project Objectives
+
+- ### [Sales Dashboard](
