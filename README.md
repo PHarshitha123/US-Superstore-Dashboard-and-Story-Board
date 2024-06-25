@@ -36,7 +36,11 @@ The Superstore dataset used in this dashboard is publicly available and can be d
 
 ## Sales Storyboard:
 
-- ### Objectives:
+- ### Problems Addressed by the Storyboard
+  - Sales vs. Profitability Discrepancy
+  - Trend of Increasing Losses
+  - Regional Performance Insights
+  - Sensitivity to Discounts
 
 - ### [Sales Storyboard](Storyboard%20of%20sales.twbx)
 - ### [Link to Tableau public Storyboard Visualization](https://public.tableau.com/app/profile/podaralla.harshitha/viz/Storyboardofsales/Story1)
