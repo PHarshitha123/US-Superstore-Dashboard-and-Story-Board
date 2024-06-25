@@ -55,17 +55,17 @@ The Superstore dataset used in this dashboard is publicly available and can be d
 
 - High Sales but High Losses in Tables Category:
 
-Finding: Tables are the fourth highest in terms of sales but have the highest losses among all product categories.
+Finding: Tables are the fourth highest in terms of sales but have the highest losses among all product categories.<br>
 Recommendation: Investigate the cost structure and pricing strategy for tables to identify reasons for high losses despite strong sales. Implement cost reduction measures or price adjustments as necessary.
 
 - Sensitivity of Tables to Discounts:
 
-Finding: Tables are very sensitive to discounts, leading to substantial losses when discounts are applied.
+Finding: Tables are very sensitive to discounts, leading to substantial losses when discounts are applied.<br>
 Recommendation: Cease any discounting on tables immediately. Instead, focus on value-based selling and highlighting unique features and quality to justify the price without discounts.
 
 - Sales Trends and Seasonal Patterns:
 
-Finding: Sales trends indicate specific seasonal patterns, with certain times of the year showing spikes or drops in sales.
+Finding: Sales trends indicate specific seasonal patterns, with certain times of the year showing spikes or drops in sales.<br>
 Recommendation: Utilize these insights to optimize inventory management, marketing campaigns, and staffing levels. Plan promotions and sales strategies around peak seasons to maximize sales and profitability.
 
 
