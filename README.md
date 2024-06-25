@@ -38,10 +38,14 @@ The Superstore dataset used in this dashboard is publicly available and can be d
 
 - ### Objectives:
 
-- ### [Sales Storyboard](Storyboard of sales.twbx)
+- ### [Sales Storyboard](Storyboard%20of%20sales.twbx)
 - ### [Link to Tableau public Storyboard Visualization](https://public.tableau.com/app/profile/podaralla.harshitha/viz/Storyboardofsales/Story1)
 - ### Storyboard
-![Storyboard1](
+![Storyboard1](Images/Storyboard%201.png)
+![Storyboard2](Images/Storyboard%202.png)
+![Storyboard3](Images/Storyboard%203.png)
+![Storyboard4](Images/Storyboard%204.png)
+![Storyboard5](Images/Storyboard%205.png)
 
 
 
