@@ -10,7 +10,7 @@ A comprehensive Tableau project visualizing the US Superstore sales data. The pr
 ## Data Sources
 The Superstore dataset used in this dashboard is publicly available and can be downloaded from the Tableau website. The dataset contains data on sales, profits, and other metrics for a fictional company that sells office supplie.
 
-- [US Sample Super Store Dataset](Sample%20-%20Superstore.xls)
+- ### [US Sample Super Store Dataset](Sample%20-%20Superstore.xls)
 - Source: "Sample - Superstore Data" from Tableau.
 
 - Contents: Sales information of a fictional office supplies retailer.
@@ -19,4 +19,6 @@ The Superstore dataset used in this dashboard is publicly available and can be d
 
 ## Visualization & Project Objectives
 
-- ### [Sales Dashboard](
+- ### [Sales Dashboard](Dashboard%20of%20sales.twbx)
+- ### [Link to Tableau Public Visualization](https://public.tableau.com/app/profile/podaralla.harshitha/viz/Dashboardofsales_16971321435180/Dashboard1)
+- ### [Dashboard](
